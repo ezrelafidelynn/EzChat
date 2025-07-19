@@ -14,9 +14,9 @@ Welcome to your new favorite **Realtime Chat App** — built with love using **M
 | ----------------------------------------------------- | ----------------------------------------------------- |
 | ![Profile Updated](frontend/dist/profile-updated.png) | ![Theme Selection](frontend/dist/theme-selection.png) |
 
-| Chat Interface                                                  | Create Account                                        | Login Screen                                    |
-| --------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- |
-| ![Chat Interface](frontend/dist/screenshots/chat-interface.png) | ![Register Screen](frontend/dist/register-screen.png) | ![Login Screen](frontend/dist/login-screen.png) |
+| Chat Interface                                      | Create Account                                        | Login Screen                                    |
+| --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- |
+| ![Chat Interface](frontend/dist/chat-interface.png) | ![Register Screen](frontend/dist/register-screen.png) | ![Login Screen](frontend/dist/login-screen.png) |
 
 ---
 
