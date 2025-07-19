@@ -2,7 +2,7 @@
 
 ## 🎥 Demo Video
 
-👉 [Watch the Demo Video](https://drive.google.com/file/d/116s__fDiofHiglJsqp9ae9QdaML4zS-_/view?usp=sharing)
+👉 [Watch the Demo Video](frontend/dist/VideoDemo.mp4)
 
 Welcome to your new favorite **Realtime Chat App** — built with love using **MERN Stack**, **Socket.io**, **TailwindCSS**, and **DaisyUI**! 🚀 Whether you're chatting with friends or just admiring the themes, this app brings smooth performance and real-time magic in one sleek package.
 
@@ -10,9 +10,13 @@ Welcome to your new favorite **Realtime Chat App** — built with love using **M
 
 ## 📸 Screenshots
 
-| Chat in Action                                |
-| --------------------------------------------- |
-| ![](/frontend/dist/screenshot-for-readme.png) |
+| Profile Updated                                       | Theme Selection                                       |
+| ----------------------------------------------------- | ----------------------------------------------------- |
+| ![Profile Updated](frontend/dist/profile-updated.png) | ![Theme Selection](frontend/dist/theme-selection.png) |
+
+| Chat Interface                                                  | Create Account                                        | Login Screen                                    |
+| --------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- |
+| ![Chat Interface](frontend/dist/screenshots/chat-interface.png) | ![Register Screen](frontend/dist/register-screen.png) | ![Login Screen](frontend/dist/login-screen.png) |
 
 ---
 
