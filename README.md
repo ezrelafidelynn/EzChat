@@ -10,13 +10,9 @@ Welcome to your new favorite **Realtime Chat App** — built with love using **M
 
 ## 📸 Screenshots
 
-| Chat in Action                                  | With Profile & Without                          | Online User List                                |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](/frontend/dist/screenshot-for-readme-2.png) | ![](/frontend/dist/screenshot-for-readme-3.png) | ![](/frontend/dist/screenshot-for-readme-4.png) |
-
-| 🎨 Theme Customization                          | 🙋‍♂️ Profile Page                                 |
-| ----------------------------------------------- | ----------------------------------------------- |
-| ![](/frontend/dist/screenshot-for-readme-5.png) | ![](/frontend/dist/screenshot-for-readme-6.png) |
+| Chat in Action                                |
+| --------------------------------------------- |
+| ![](/frontend/dist/screenshot-for-readme.png) |
 
 ---
 

@@ -10,15 +10,6 @@ lerna-debug.log*
 # Dependency directories
 node_modules/
 
-# Build outputs
-# Ignore all dist folders by default
-**/dist/
-
-# EXCEPTION: Include frontend/dist (for media like DemoVideo.mp4, screenshots, etc.)
-!frontend/dist/
-
-# Ignore SSR build output
-dist-ssr/
 *.local
 
 # IDEs & Editors
