@@ -2,7 +2,7 @@
 
 ## 🎥 Demo Video
 
-👉 [Watch the Demo Video](./frontend/dist/DemoVideo.mp4)
+👉 [Watch the Demo Video](https://drive.google.com/file/d/116s__fDiofHiglJsqp9ae9QdaML4zS-_/view?usp=sharing)
 
 Welcome to your new favorite **Realtime Chat App** — built with love using **MERN Stack**, **Socket.io**, **TailwindCSS**, and **DaisyUI**! 🚀 Whether you're chatting with friends or just admiring the themes, this app brings smooth performance and real-time magic in one sleek package.
 

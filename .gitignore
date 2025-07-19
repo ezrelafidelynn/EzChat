@@ -7,15 +7,24 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependency directories
+node_modules/
+
+# Build outputs
+# Ignore all dist folders by default
+**/dist/
+
+# EXCEPTION: Include frontend/dist (for media like DemoVideo.mp4, screenshots, etc.)
+!frontend/dist/
+
+# Ignore SSR build output
+dist-ssr/
 *.local
 
-# Editor directories and files
+# IDEs & Editors
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
@@ -23,4 +32,5 @@ dist-ssr
 *.sln
 *.sw?
 
+# Environment variables
 .env
